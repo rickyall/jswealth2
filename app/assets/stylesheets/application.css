@@ -5,3 +5,8 @@
  *= require_self
  *= require_tree .
 */
+
+
+.red{
+	color:#be0000;
+}
